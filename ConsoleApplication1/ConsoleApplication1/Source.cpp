@@ -138,7 +138,7 @@ void ex03() {
 	int x = rand() % 10 + 1, y = rand() % 10 + 1; //two random integers btwn 1 and 10
 	int add = sumFxn(x, y);
 	cout << x << " + " << y << " = " << add << endl << endl;
-	//PART G HOW FOR DO ???????????????????
+	///part g
 	int parameter;
 	addOne(parameter);
 
@@ -170,7 +170,7 @@ int doubleFxn(int number) {
 int sumFxn(int number1, int number2) {
 	return (number1 + number2);
 }
-//EX01_03 part g --- pass by ref add one function ?????????????????
+//EX01_03 part g --- pass by ref add one function
 int addOne(int &parameter) {
 	parameter += 1;
 }
