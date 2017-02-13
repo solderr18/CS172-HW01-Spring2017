@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\solderr18\documents\github\cs172-hw01-spring2017\consoleapplication1\consoleapplication1\source.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW01-Spring2017\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW01-Spring2017\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
