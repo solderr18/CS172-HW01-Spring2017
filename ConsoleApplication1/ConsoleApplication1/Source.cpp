@@ -82,7 +82,7 @@ void ex02() {
 	cout << "The hypotenuse of your right triangle is " << hyp << " units. \n\n";
 	///b
 	char a;
-	//do{
+	//do{ //test
 	cout << "yes or no (type y or n)? ";
 	cin >> a;
 	a = tolower(a);
@@ -92,7 +92,7 @@ void ex02() {
 		cout << "no\n\n";
 	else
 		cout << "you chose neither y nor n.\n\n";
-	//while ( a!= y || a!= n)
+	//while ( a!= y || a!= n) //test
 	///c
 	char t = '\t';
 	///d
